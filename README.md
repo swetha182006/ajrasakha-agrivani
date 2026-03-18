@@ -19,10 +19,10 @@ By extracting expert-validated rules directly from official government PDFs and 
 * **Database:** MongoDB Atlas
 
 ## The Team
-* **Himanshu Chib** - Team Lead
-* **S Swetha**
-* **Jayesh Thakur**
-* **Harini Elangovan**
+* **Himanshu Chib** - Team Lead / Backend & API
+* **S Swetha** - Data Engine & AI Logic
+* **Jayesh Thakur** - Frrontend & Voice UI
+* **Harini Elangovan** - Research, Ops, & Journaling
 
 ---
 *Developed for the annam.ai Ajrasakha Hackathon.*
