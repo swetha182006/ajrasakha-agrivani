@@ -27,3 +27,13 @@ Required documents:
 5)Personal Details: Name, Gender, Category (SC/ST, etc.), Address , Age/Date of Birth (optional)
 6)Self-Declaration : Declaration confirming:Eligibility, Not falling under exclusion categories Used by State/UT for verification
 
+Page / Section:
+
+Document Name : PM-KISAN Operational Guidelines (2018)
+Objective : Section: 2.1 - Page: 1
+Financial Benefits : Section: 2.2 - Page: 1
+Eligibility (Definition of Farmer Family): Section: 2.3 - Page: 1
+ExclusionsSection: 2.4 - Page: 1–2
+Benefit Transfer : Section: 4.1 - Page: 3
+
+
